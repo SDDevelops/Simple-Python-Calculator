@@ -15,7 +15,7 @@ def main():
             self.equation = ""
 
             self.keyPad()
-    
+
         #Shows the keypad
         def keyPad(self):
 
